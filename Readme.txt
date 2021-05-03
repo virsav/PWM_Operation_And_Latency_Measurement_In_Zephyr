@@ -13,7 +13,7 @@
 #########################################################################################################################
 -----------------------------------------------Assignment Information----------------------------------------------------
 
-Author: Viraj Savaliya          ; ASU ID - 1217678787
+Author: Viraj Savaliya          ; ASU ID - 
 
 Assignment 1 : PWM Operation and Latency Measurement in Zephyr RTOS
 
